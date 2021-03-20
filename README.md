@@ -9,6 +9,6 @@ Click add button to add images.
 Click start to move images.
 #### Future improvements:
 I would like to revisit this and implement more interaction. 
-Ex.- on screenclicik randomize direction of all images.
+Ex.- on screenclick randomize direction of all images.
 ##### Liscense:
 MIT starter code
